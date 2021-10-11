@@ -27,3 +27,13 @@ En este módulo, aprenderá:
 Este conjunto de datos tiene datos de clientes que compran ropa en línea. La tienda ofrece sesiones de consejos de estilo y ropa en la tienda. Los clientes entran a la tienda, tienen sesiones / reuniones con un estilista personal, luego pueden ir a casa y ordenar en una aplicación móvil o sitio web la ropa que desean.
 
 La compañía está tratando de decidir si enfocar sus esfuerzos en su experiencia con la aplicación móvil o en su sitio web.
+
+## Actividad 03: Entrenar y evaluar modelos de regresion
+**Documento:** [Entrenar_Evaluar_Modelos_Regresion.ipynb](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/blob/main/Entrenar_Evaluar_Modelos_Regresion.ipynb)
+
+La regresión es un tipo de aprendizaje automático de uso común para predecir valores numéricos.
+
+**Objetivos de aprendizaje**
+
+* Cuando usar modelos de regresión.
+* Cómo entrenar y evaluar modelos de regresión usando el marco Scikit-Learn.
