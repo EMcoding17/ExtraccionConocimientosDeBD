@@ -14,3 +14,11 @@ entrenamiento y despliegue de un modelo de aprendizaje automático supervisado.
 * cd Actividad03/
 * docker run -it -p 8080:8080 -v "$PWD"/code/:/home/code/ --name gitpod_rl1 -h rl1 regresion_lineal:v0.1
 
+**MODELO DE REGRESION**
+* cd /home/code/
+* ls
+* python3 trainig.py
+* python3 prediction.py
+
+**APLICACIÓN WEB.PY**
+* python3 app.py
