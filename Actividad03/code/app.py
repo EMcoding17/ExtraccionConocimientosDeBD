@@ -21,7 +21,8 @@ class Index:
         x = float(form.x)
         xs = []
         xs.append([x])
-        result = self.model.predict(xs)
+        r = self.model.predict(xs)
+        result = round(r[0][0])
         return render.index(result)
 
 if __name__ == "__main__":

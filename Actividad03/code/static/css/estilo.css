@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+.burbuja{
+    background-image: url("../img/fondo.jpg");
+    height: 70%;
+    width: 60%;
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100% 120%;
+    background-attachment:local;
+    border: 5px solid transparent;
+    margin: -5% 20% 0 20%;
+}
+.numero{
+    border: 5px solid transparent;
+    text-align: center;
+    margin: 10% 5% 0 5%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    font-size: 400%;
+}
+.formulario{
+    border: 5px solid transparent;
+    margin-left: 15%;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    padding-top: 3%;
+    text-align: center;
+}
+input#x{
+    width: 40%;
+    height: 25px;
+    background-color:darkmagenta;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+    padding-left: 15px;
+}
+input#predecir{
+    height: 25px;
+    background-color:lightgray;
+    font-size: 20px;
+    font-weight: bold;
+    color:darkslateblue;
+    border: none;
+    border-radius: 15px;
+    padding-left: 15px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
