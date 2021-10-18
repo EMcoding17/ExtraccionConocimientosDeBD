@@ -3,7 +3,7 @@
 ### Romero Sosa Emma Yuridia
 ### 1718110412
 
-## Actividad 01: Curso: Explorar y analizar datos con Python
+## Curso: Explorar y analizar datos con Python
 **Documento:** [Exploración_Analizis_De_Datos.ipynb](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/blob/main/Exploraci%C3%B3n_Analizis_De_Datos.ipynb).
 
 La exploración y el análisis de datos son el núcleo de la ciencia de datos. Los científicos de datos requieren habilidades en lenguajes como Python para explorar, visualizar y manipular datos.
@@ -28,7 +28,7 @@ Este conjunto de datos tiene datos de clientes que compran ropa en línea. La ti
 
 La compañía está tratando de decidir si enfocar sus esfuerzos en su experiencia con la aplicación móvil o en su sitio web.
 
-## Actividad 03: Entrenar y evaluar modelos de regresion
+## Curso: Entrenar y evaluar modelos de regresion
 **Documento:** [Entrenar_Evaluar_Modelos_Regresion.ipynb](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/blob/main/Entrenar_Evaluar_Modelos_Regresion.ipynb)
 
 La regresión es un tipo de aprendizaje automático de uso común para predecir valores numéricos.
@@ -37,3 +37,8 @@ La regresión es un tipo de aprendizaje automático de uso común para predecir 
 
 * Cuando usar modelos de regresión.
 * Cómo entrenar y evaluar modelos de regresión usando el marco Scikit-Learn.
+
+## Actividad 03: Análisis, limpieza, entrenamiento y despliegue
+**Documento:** [Actividad03](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/tree/main/Actividad03)
+
+**Objetivo:** Desarrollar un ejemplo básico de Machine Learning, realizando el análisis, limpieza, entrenamiento y despliegue de un modelo de aprendizaje automático supervisado.
