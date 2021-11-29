@@ -1,4 +1,3 @@
-# ExtraccionConocimientosDeBD
 # Extracción de Conocimientos de Base de Datos
 ### Romero Sosa Emma Yuridia
 ### 1718110412
@@ -42,3 +41,19 @@ La regresión es un tipo de aprendizaje automático de uso común para predecir 
 **Documento:** [Actividad03](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/tree/main/Actividad03)
 
 **Objetivo:** Desarrollar un ejemplo básico de Machine Learning, realizando el análisis, limpieza, entrenamiento y despliegue de un modelo de aprendizaje automático supervisado.
+
+## Actividad 04: Carprice
+**Documento:** [Actividad04](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/blob/main/Actividad04/CarPrice%5BRegresionLineal%5D.ipynb)
+
+**Objetivos:**
+* Normalizar datos
+* Convertir columnas categoricas a columnas numericas*
+* Realizar un modelo regresional con el dataset CARPRICE
+
+## Actividad05: Hongos
+**Documento:** [Actividad05](https://github.com/EMcoding17/ExtraccionConocimientosDeBD/blob/main/Actividad05/Hongos.ipynb)
+
+**Objetivos:**
+* Convertir columnas categoricas a numericas
+* Realizar un modelo de clasificación
+* Usar la matriz de confusion
